@@ -11,8 +11,8 @@ const Banner = props => (
       <div className="content">
         <p>
           I'm a mechanical engineer passionate about design, <br />
-          entrepreneurship, and blockchain technology. In my spare time, <br />I
-          trade cryptoassets and practice videography.
+          entrepreneurship, and technology. In my spare time, <br />I
+          develop web applications and practice videography.
         </p>
         <ul className="actions">
           <li>
