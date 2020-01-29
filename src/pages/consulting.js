@@ -1,14 +1,13 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import BannerLanding from '../components/BannerLanding'
-import Layout from '../components/Layout'
+import Layout from '../components/layout'
 
 import PortConsult1 from '../assets/images/PortConsult1.jpg'
 import PortCalixte from '../assets/images/PortCalixte.jpg'
 import PortSIC from '../assets/images/PortSIC.jpg'
 import PortScrum from '../assets/images/PortScrum.jpg'
 
-import pic10 from '../assets/images/pic10.jpg'
 
 const Visual = props => (
   <Layout>
