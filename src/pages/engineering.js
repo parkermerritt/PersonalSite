@@ -1,7 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import BannerLanding from '../components/BannerLanding'
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 
 import portBG from '../assets/images/PortBG.jpg'
 import portNerfbot from '../assets/images/PortNerfbot.jpg'

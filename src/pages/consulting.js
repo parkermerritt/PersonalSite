@@ -1,7 +1,7 @@
 import React from 'react'
 import Helmet from 'react-helmet'
 import BannerLanding from '../components/BannerLanding'
-import Layout from '../components/layout'
+import Layout from '../components/Layout'
 
 import PortConsult1 from '../assets/images/PortConsult1.jpg'
 import PortCalixte from '../assets/images/PortCalixte.jpg'
