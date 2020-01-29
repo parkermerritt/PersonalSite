@@ -14,6 +14,7 @@ const Banner = props => (
           entrepreneurship, and technology. In my spare time, <br />I
           develop web applications and practice videography.
         </p>
+
         <ul className="actions">
           <li>
             <a href="#one" className="button next scrolly">
@@ -21,7 +22,9 @@ const Banner = props => (
             </a>
           </li>
         </ul>
+
       </div>
+
     </div>
   </section>
 )

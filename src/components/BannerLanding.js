@@ -8,12 +8,12 @@ const BannerLanding = props => (
       </header>
       <div className="content">
         <p>
-          I'M A MECHANICAL ENGINEER PASSIONATE ABOUT DESIGN, USER INTERFACES,{' '}
-          <br />
-          AND BLOCKCHAIN TECHNOLOGY. IN MY SPARE TIME, I TRADE CRYPTOASSETS AND
-          PRACTICE VIDEOGRAPHY.
+          I'm a mechanical engineer passionate about design, <br />
+          entrepreneurship, and technology. In my spare time, <br />I
+          develop web applications and practice videography.
         </p>
       </div>
+      <span><p>B.S. Mechanical Engineering</p></span>
     </div>
   </section>
 )
