@@ -3,7 +3,7 @@ import Helmet from 'react-helmet'
 import BannerLanding from '../components/BannerLanding'
 import Layout from '../components/Layout'
 
-import portGithub from '../assets/images/portGithub.jpg'
+import portGithub from '../assets/images/PortGithub.jpg'
 import PortJoystick from '../assets/images/PortJoystick2.jpg'
 
 const Visual = props => (
