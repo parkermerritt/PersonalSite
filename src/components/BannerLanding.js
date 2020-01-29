@@ -13,7 +13,6 @@ const BannerLanding = props => (
           develop web applications and practice videography.
         </p>
       </div>
-      <span><p>B.S. Mechanical Engineering</p></span>
     </div>
   </section>
 )
