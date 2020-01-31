@@ -68,33 +68,7 @@ const Visual = props => (
               </div>
             </div>
           </section>
-          <section>
-            <a href="http://joystickclinic.com/" className="image">
-              <img src={PortJoystick} alt="" />
-            </a>
-            <div className="content">
-              <div className="inner">
-                <header className="major">
-                  <h3>Joystick Clinic</h3>
-                  <h5>E-sports Coaching &amp; Tutorials</h5>
-                </header>
-                <p>
-                  The world of e-sports is a rapidly growing industry in 2018, and
-                  many aspiring gaming competitors are beginning to seek coaching
-                  services. Recognizing this need, I partnered with professional
-                  gamer Eric Moreno to create a site for hosting tutorials and
-                  scheduling tutoring sessions.
-              </p>
-                <ul className="actions">
-                  <li>
-                    <a href="http://joystickclinic.com/" className="button">
-                      Learn more
-                  </a>
-                  </li>
-                </ul>
-              </div>
-            </div>
-          </section>
+
         </section>
       </div>
     </div>
