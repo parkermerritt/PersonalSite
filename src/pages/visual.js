@@ -25,7 +25,7 @@ const Visual = props => (
               <h2>An Unlikely Editor</h2>
             </header>
             <p>
-              Becoming a graphic designer was never part of my plan-- in high
+              Becoming a graphic designer was never part of my plan— in high
               school, I inadvertently signed up for yearbook class under the guise
             of a "Research" block. Four years later, I was the editor-in-chief,{' '}
               armed with design skills honed during many meticulous hours of
@@ -82,11 +82,11 @@ const Visual = props => (
                 <p>
                   In 2017 I partnered with photographer Sammy Mercado (
                 <a href="https://www.instagram.com/flawdakid/">@flawdakid</a>)
-                    to form a media marketing firm, Mahi Media. Working with
-                    Gainesville bands and small businesses, I worked on film and
-                    graphic design while Sammy focused on photography and digital
-                    media. Together, we created groundbreaking visual content,
-                    discovered great music, and made memories that would last us a
+                        to form a media marketing firm, Mahi Media. Working with
+                        Gainesville bands and small businesses, I worked on film and
+                        graphic design while Sammy focused on photography and digital
+                        media. Together, we created groundbreaking visual content,
+                        discovered great music, and made memories that would last us a
                 lifetime.{' '}
                 </p>
                 <ul className="actions">
