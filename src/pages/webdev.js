@@ -36,7 +36,7 @@ const Visual = props => (
             <ul>
               <li>Javascript (React, Vue)</li>
               <li>HTML/CSS</li>
-              <li>GraphQL</li>
+
               <li>Python</li>
               <li>Java</li>
               <li>C++</li>

@@ -17,7 +17,7 @@ const Banner = props => (
 
         <ul className="actions">
           <li>
-            <a href="https://medium.com/@parkermerritt" className="button next scrolly">
+            <a href="https://ideasofmerritt.com" className="button next scrolly">
               Blog
             </a>
           </li>
