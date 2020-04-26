@@ -12,7 +12,7 @@ const Menu = props => (
         </li>
         <li>
           <Link onClick={props.onToggleMenu} to="/visual">
-            Visual Design
+            Visual Media
           </Link>
         </li>
         <li>

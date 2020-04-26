@@ -31,8 +31,8 @@ class HomeIndex extends React.Component {
             <section id="one" className="tiles">
               <article style={{ backgroundImage: `url(${pic01})` }}>
                 <header className="major">
-                  <h3>Visual Design</h3>
-                  <p>Logos, UX/UI, branding, and videography.</p>
+                  <h3>Visual Media</h3>
+                  <p>Logos, graphics, branding, and videography.</p>
                 </header>
                 <Link to="/visual" className="link primary" />
               </article>

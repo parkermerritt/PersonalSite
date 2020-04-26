@@ -7,6 +7,7 @@ import Layout from '../components/Layout'
 import MahiRecord from '../assets/images/MahiRecord.jpg'
 import PortZona from '../assets/images/PortZona1.jpg'
 import PortFORE from '../assets/images/PortFORE.jpg'
+import PortSummit from '../assets/images/PortSummit.jpg'
 
 const Visual = props => (
   <Layout>
@@ -41,6 +42,39 @@ const Visual = props => (
         <section id="two" className="spotlights">
           <section>
             <a
+              href="https://www.youtube.com/watch?v=3EmxVi9zRAQ"
+              className="image"
+            >
+              <img src={PortSummit} alt="" />
+            </a>
+            <div className="content">
+              <div className="inner">
+                <header className="major">
+                  <h3>IBM Summit Promotional</h3>
+                  <h5>Hiring Event Interview Video</h5>
+                </header>
+                <p>
+                  As an experienced videographer with a knack for storytelling, in 2019 I was tapped
+                  by IBM management to create a promotional video for the presitigious Summit training
+                  program. As the project's chief director, editor, and interviewer, I spoke to a number of
+                  fellow IBMers about their early career experiences, weaving their remarks together into a single, cohesive narrative.
+              </p>
+                <ul className="actions">
+                  <li>
+                    <a
+                      href="https://www.youtube.com/watch?v=3EmxVi9zRAQ"
+                      className="button"
+                    >
+                      Learn more
+                  </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </section>
+
+          <section>
+            <a
               href="https://www.facebook.com/events/282955775851547/"
               className="image"
             >
@@ -72,6 +106,12 @@ const Visual = props => (
               </div>
             </div>
           </section>
+
+
+
+
+
+
           <section>
             <a href="https://www.instagram.com/mahimedia/" className="image">
               <img src={MahiRecord} alt="" />
@@ -85,11 +125,11 @@ const Visual = props => (
                 <p>
                   In 2017 I partnered with photographer Sammy Mercado (
                 <a href="https://www.instagram.com/flawdakid/">@flawdakid</a>)
-                            to form a media marketing firm, Mahi Media. Working with
-                            Gainesville bands and small businesses, I worked on film and
-                            graphic design while Sammy focused on photography and digital
-                            media. Together, we created groundbreaking visual content,
-                            discovered great music, and made memories that would last us a
+                                                to form a media marketing firm, Mahi Media. Working with
+                                                Gainesville bands and small businesses, I worked on film and
+                                                graphic design while Sammy focused on photography and digital
+                                                media. Together, we created groundbreaking visual content,
+                                                discovered great music, and made memories that would last us a
                 lifetime.{' '}
                 </p>
                 <ul className="actions">
