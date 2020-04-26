@@ -29,12 +29,15 @@ const Visual = props => (
               school, I inadvertently signed up for yearbook class under the guise
             of a "Research" block. Four years later, I was the editor-in-chief,{' '}
               armed with design skills honed during many meticulous hours of
-              Adobe-sponsored labor. These skills were useful in shaping the
+              Adobe-fueled creativity. These skills were useful in shaping the
               brands of my own business ventures, as well as the many businesses I
               partnered with in doing freelance graphics and video work.
           </p>
           </div>
         </section>
+        <div>
+          <MyGallery />
+        </div>
         <section id="two" className="spotlights">
           <section>
             <a
@@ -82,11 +85,11 @@ const Visual = props => (
                 <p>
                   In 2017 I partnered with photographer Sammy Mercado (
                 <a href="https://www.instagram.com/flawdakid/">@flawdakid</a>)
-                        to form a media marketing firm, Mahi Media. Working with
-                        Gainesville bands and small businesses, I worked on film and
-                        graphic design while Sammy focused on photography and digital
-                        media. Together, we created groundbreaking visual content,
-                        discovered great music, and made memories that would last us a
+                            to form a media marketing firm, Mahi Media. Working with
+                            Gainesville bands and small businesses, I worked on film and
+                            graphic design while Sammy focused on photography and digital
+                            media. Together, we created groundbreaking visual content,
+                            discovered great music, and made memories that would last us a
                 lifetime.{' '}
                 </p>
                 <ul className="actions">
@@ -137,9 +140,7 @@ const Visual = props => (
             </div>
           </section>
         </section>
-        <div>
-          <MyGallery />
-        </div>
+
       </div>
     </div>
 
