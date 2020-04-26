@@ -6,6 +6,7 @@ import Layout from '../components/Layout'
 import PortBrainwallet from '../assets/images/PortBrainwallet.jpg'
 import PortGBTC from '../assets/images/PortGBTC.jpg'
 import PortBoB from '../assets/images/PortBoB.jpg'
+import PortRB from '../assets/images/PortRB.jpg'
 
 
 const Visual = props => (
@@ -46,18 +47,53 @@ const Visual = props => (
                                     <h5>IBM Summit Speaker Series Presentation</h5>
                                 </header>
                                 <p>
-                                    When infused with a compelling narrative, any technical presentation becomes immensely more memorable. For this reason, when asked to speak to a local high school on the subject of blockchain, I leveraged storytelling to help pique their own curiosity on the subject, making Bitcoin’s legendary origin story the primary focus of my discussion— the anonymous creator, his rebellious intentions, and the unprecedented levels of financial freedom blockchain has enabled around the world.
-              </p>
+                                    When infused with a compelling narrative, any technical presentation
+                                    becomes immensely more memorable. For this reason, when asked to speak
+                                    to a local high school on the subject of blockchain, I leveraged storytelling
+                                    to help pique their own curiosity on the subject, making Bitcoin’s legendary
+                                    origin story the primary focus of my discussion— the anonymous creator, his
+                                    rebellious intentions, and the unprecedented levels of financial freedom blockchain
+                                    has enabled around the world.
+                                </p>
                                 <ul className="actions">
                                     <li>
                                         <a href="https://www.youtube.com/watch?v=wpUHwlpUK1w" className="button">
                                             Learn more
-                  </a>
+                                        </a>
                                     </li>
                                 </ul>
                             </div>
                         </div>
                     </section>
+
+                    <section>
+                        <a href="https://www.researchblocks.com/" className="image">
+                            <img src={PortRB} alt="" />
+                        </a>
+                        <div className="content">
+                            <div className="inner">
+                                <header className="major">
+                                    <h3>Research Blocks</h3>
+                                    <h5>Hyperledger Supply Chain Platform</h5>
+                                </header>
+                                <p>
+                                    Recognizing blockchain technology's potential to transform traditional supply chain operations,
+                                    I co-founded a company in 2018 to help bring greater trust and efficiency to the pharmaceutical industry. As CTO,
+                                    I developed an serverless React + AWS web application, while also managing a team of freelance developers to
+                                    anchor this platform to Hyperledger, an enterprise-focused blockchain protocol.
+                                </p>
+                                <ul className="actions">
+                                    <li>
+                                        <a href="https://www.researchblocks.com/" className="button">
+                                            Learn more
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </section>
+
+
                     <section>
                         <a href="https://brainwallet.club/" className="image">
                             <img src={PortBrainwallet} alt="" />
@@ -77,12 +113,12 @@ const Visual = props => (
                                     created a monthly subscription box service providing patrons
                                     with the best books on blockchain, as well as in-depth reviews
                                     of each title.
-              </p>
+                                </p>
                                 <ul className="actions">
                                     <li>
                                         <a href="https://brainwallet.club/" className="button">
                                             Learn more
-                  </a>
+                                        </a>
                                     </li>
                                 </ul>
                             </div>
